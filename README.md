@@ -6,7 +6,7 @@
 
 I'm a passionate **Computer Science student & aspiring Software Engineer** with experience in **JavaScript, Node.js, Express, PostgreSQL, and Bootstrap**. I love tackling complex problems, exploring **AI/ML**, and building solutions that simplify everyday life.  
 
-- 🌱 Currently learning: **Backend development, AI/ML, AR/VR**  
+- 🌱 Currently learning: **Backend development, AI/ML**  
 - 🔭 Working on: **BlueFix – a Utility Complaints Handling System for Nairobi County**  
 - 🌍 Languages: **JavaScript, Python, SQL, HTML/CSS, English, Kiswahili**  
 - 📫 How to reach me: **njarambakenneth7@gmail.com**  
@@ -25,8 +25,6 @@ I'm a passionate **Computer Science student & aspiring Software Engineer** with 
 
 
 
-![BlueFix Screenshot](your_project_screenshot_url_here)  
-
 **BlueFix** is a **Utility Complaints Handling System** for Nairobi County, built with **Node.js, Express, PostgreSQL, and Bootstrap**. It allows residents to **report, track, and resolve utility issues**, streamlining communication between citizens and service providers.  
 
 
@@ -34,7 +32,7 @@ I'm a passionate **Computer Science student & aspiring Software Engineer** with 
 ## Get in Touch 📬  
 
 - **[LinkedIn](https://www.linkedin.com/in/-kenneth-njaramba/)**  
-- **[Twitter](https://twitter.com/your-twitter-handle)**  
+ 
 - 📧 **Email:** njarambakenneth7@gmail.com  
 
 
