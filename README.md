@@ -1,6 +1,6 @@
 # Hi there, I'm Kenneth N! 👋  
 
-![Banner Image](your_banner_image_url_here)  
+![Banner Image](https://github.com/Kennethcodes101/Kennethcodes101/blob/main/github-header-banner.png))  
 
 ## About Me 🚀  
 
